@@ -4,3 +4,4 @@ IPython
 opencv-python     
 tensorflow
 tensorflow_hub
+git+https://github.com/tensorflow/docs
